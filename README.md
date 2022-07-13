@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nr5D&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Nr5D's GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nr5D&layout=compact&theme=tokyonight" />
-
-![Metrics](https://github.com/Nr5D/Nr5D/raw/main/github-metrics.svg)
