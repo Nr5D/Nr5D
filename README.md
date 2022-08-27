@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nr5D&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Nr5D's GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nr5D&layout=compact&theme=tokyonight" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+[<img align="right" width="400" alt="Nr5D's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nr5D&show_icons=true&title_color=002642&icon_color=a23e02&bg_color=ffffff&border_color=2e4963&text_color=173552"/>](https://github.com/Nr5D/)
+
+<!--Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nr5D&theme=buefy&layout=compact&langs-count=5" />
+-->
+
