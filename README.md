@@ -23,3 +23,20 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nr5D&theme=buefy&layout=compact&langs-count=5" />
 -->
 
+<a href="https://twitter.com/nurussadad">
+  <img align="left" alt="Abdul Aziz Nurussadad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/Nr5D">
+  <img align="left" alt="Abdul Aziz Nurussadad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://scholar.google.com/citations?hl=en&user=1AArL-4AAAAJ">
+  <img align="left" alt="Abdul Aziz Nurussadad's GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nurussadad/">
+  <img align="left" alt="Abdul Aziz Nurussadad's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
+
+## About me
+- Later
+
